@@ -1,0 +1,8 @@
+.pagina-cadastro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #b4caa9ae;
+    width: 100vw;
+    height: 100vh;
+}
